@@ -1,0 +1,8 @@
+
+Bob ../resources/avatars/0.png 3 1 0 260100 260100
+MaS ../resources/avatars/2.png 1 1 0 95610 95610
+Manu ../resources/avatars/3.png 9 6 1 816200 435000
+Lyon ../resources/avatars/0.png 8 2 1 721500 441820
+delu ../resources/avatars/4.png 2 4 0 184900 46710
+Ila ../resources/avatars/1.png 8 2 2 778900 455714
+anto ../resources/avatars/2.png 5 4 0 420000 134700
